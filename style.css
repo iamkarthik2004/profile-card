@@ -27,6 +27,12 @@ body {
   position: relative;
 }
 
+.profile-info h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #0057ff;
+}
+
 .cover {
   height: 120px;
 background: url("bgimg.png") center/cover no-repeat;
@@ -163,4 +169,5 @@ footer {
   color: #888;
   margin-bottom: 10px;
 }
+
 
